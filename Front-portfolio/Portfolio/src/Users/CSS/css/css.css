@@ -1,0 +1,36 @@
+#footerInput {
+    margin-left: 400px;
+    margin-top: -100px;
+}
+
+@media (max-width: 1400px) {
+    #footerInput {
+        margin-left: 15px;
+        margin-top: -10px;
+    }
+
+    #sendmsg {
+        margin-left: -23px;
+        width: 300px;
+    }
+
+    #lit {
+        width: 400px;
+    }
+
+    #skiill {
+        width: 300px
+    }
+
+    #phone {
+        margin-left: -50px;
+    }
+    /**/
+    /*#label {*/
+    /*    width: 0px;*/
+    /*}*/
+
+    #project {
+        margin-left: 25%;
+    }
+}
